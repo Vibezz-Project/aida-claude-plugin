@@ -1,5 +1,5 @@
 {
-  "name": "aida-platform-marketplace",
+  "name": "vibezz-aida-marketplace",
   "description": "Plugin oficial da Vibezz para a AIDA Platform",
   "owner": {
     "name": "Vibezz",
@@ -7,7 +7,7 @@
   },
   "plugins": [
     {
-      "name": "aida-platform",
+      "name": "vibezz-aida",
       "source": "./",
       "description": "Inteligência de mercado de cinema da Vibezz no Claude"
     }

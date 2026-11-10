@@ -31,7 +31,7 @@ A AIDA entrega análises, rankings e agregações. Ela não exporta bases brutas
 No Claude Code, também é possível instalar direto deste repositório:
 
 ```
-/plugin install aida-platform --marketplace Vibezz-Project/aida-claude-plugin
+/plugin install vibezz-aida --marketplace Vibezz-Project/aida-claude-plugin
 ```
 
 ## Dados e privacidade
