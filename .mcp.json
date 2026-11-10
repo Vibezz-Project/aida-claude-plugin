@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "aida": {
+      "type": "http",
+      "url": "https://aida.vibezz.com/mcp"
+    }
+  }
+}
