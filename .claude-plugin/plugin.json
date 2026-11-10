@@ -10,7 +10,6 @@
   "homepage": "https://vibezz.com/",
   "repository": "https://github.com/Vibezz-Project/aida-claude-plugin",
   "license": "MIT",
-  "icon": "./.claude-plugin/icon.png",
   "supportUrl": "https://aida.vibezz.com/support",
   "privacyPolicyUrl": "https://aida.vibezz.com/privacy",
   "termsOfServiceUrl": "https://aida.vibezz.com/terms",
